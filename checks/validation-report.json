@@ -1,0 +1,189 @@
+{
+  "status": "PASS",
+  "run_time_utc": "2026-11-05T19:58:12.331747+00:00",
+  "tool": "validate_release.py with Python 3.14.0",
+  "files_checked": 28,
+  "errors": [],
+  "warnings": [],
+  "midi_files": [
+    {
+      "path": "midi/z3501-dark-jungle-bass-motifs-opening/chord_pulse.mid",
+      "bytes": 1256,
+      "sha256": "24933aff55a41f1be68072405f23cf2c302f37e0a57184a01648353d151e691a",
+      "errors": []
+    },
+    {
+      "path": "midi/z3501-dark-jungle-bass-motifs-opening/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "4e5b1fd06a5de8728927536f1a53d7d97bc4335b3b001d3809bf61a22ac46720",
+      "errors": []
+    },
+    {
+      "path": "midi/z3501-dark-jungle-bass-motifs-opening/drums.mid",
+      "bytes": 2674,
+      "sha256": "932160b182702afaf82dc342829de7ec192a90a8c620e874ecbf11a9d433eb90",
+      "errors": []
+    },
+    {
+      "path": "midi/z3501-dark-jungle-bass-motifs-opening/principal_motif.mid",
+      "bytes": 792,
+      "sha256": "bdc8011a9b1c515facc5cc7ad4612e84f91d238b89776fca5622686e73a1c54b",
+      "errors": []
+    },
+    {
+      "path": "midi/z3501-dark-jungle-bass-motifs-opening/sub_bass.mid",
+      "bytes": 845,
+      "sha256": "8f5517c6a37bc018e0d74e8ad742ea3810be1357e541aa6c3b97316f08b9dd23",
+      "errors": []
+    },
+    {
+      "path": "midi/z3501-dark-jungle-bass-motifs-opening/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "201bb91cf5a102356697f2d03ef50eb2d818e002737c0dadaa6ecc0fa1200b0b",
+      "errors": []
+    },
+    {
+      "path": "midi/z3501-dark-jungle-bass-motifs-opening/z3501-dark-jungle-bass-motifs-opening-combined.mid",
+      "bytes": 5725,
+      "sha256": "eeb3a7095b1af17064a09f4f2b3720f73a8c209dfce171177132f2e537ac32c0",
+      "errors": []
+    },
+    {
+      "path": "midi/z3502-dark-jungle-bass-motifs-variation/chord_pulse.mid",
+      "bytes": 1256,
+      "sha256": "7672f141310f5188ea41c245241f6d0ebf96621e469768203aa95589b7702237",
+      "errors": []
+    },
+    {
+      "path": "midi/z3502-dark-jungle-bass-motifs-variation/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "4879ba881a963cbead94a619d27ce4f023ff72ac875925b33d9b4371a8da360e",
+      "errors": []
+    },
+    {
+      "path": "midi/z3502-dark-jungle-bass-motifs-variation/drums.mid",
+      "bytes": 2674,
+      "sha256": "932160b182702afaf82dc342829de7ec192a90a8c620e874ecbf11a9d433eb90",
+      "errors": []
+    },
+    {
+      "path": "midi/z3502-dark-jungle-bass-motifs-variation/principal_motif.mid",
+      "bytes": 792,
+      "sha256": "e34ccb176bbe8da9584921e3d12ca5765d9ea87423a98357dc75c5fb99614362",
+      "errors": []
+    },
+    {
+      "path": "midi/z3502-dark-jungle-bass-motifs-variation/sub_bass.mid",
+      "bytes": 845,
+      "sha256": "0b33d6dfe876bdce4910d5a8d4c52cab85c18d169821e984e49d84dc06308bd4",
+      "errors": []
+    },
+    {
+      "path": "midi/z3502-dark-jungle-bass-motifs-variation/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "5f542951361cb18664c9a36b290f2e4c46039c6eca42ba35d9f54b85e947797b",
+      "errors": []
+    },
+    {
+      "path": "midi/z3502-dark-jungle-bass-motifs-variation/z3502-dark-jungle-bass-motifs-variation-combined.mid",
+      "bytes": 5725,
+      "sha256": "6cb4cdad4c84e37ed31dd87799c34d7dfd04defc6ac1a5d641185545b6723638",
+      "errors": []
+    },
+    {
+      "path": "midi/z3503-dark-jungle-bass-motifs-contrast/chord_pulse.mid",
+      "bytes": 1256,
+      "sha256": "39363d88b20f2bd7e0cb14edc614cf4380b9c6bbdb8c26966da8a2c1d97b8f58",
+      "errors": []
+    },
+    {
+      "path": "midi/z3503-dark-jungle-bass-motifs-contrast/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "c59f95045f7cd61b3e9b3f5f101e47ca03cb5558525f546c6be96c07b8448210",
+      "errors": []
+    },
+    {
+      "path": "midi/z3503-dark-jungle-bass-motifs-contrast/drums.mid",
+      "bytes": 2674,
+      "sha256": "932160b182702afaf82dc342829de7ec192a90a8c620e874ecbf11a9d433eb90",
+      "errors": []
+    },
+    {
+      "path": "midi/z3503-dark-jungle-bass-motifs-contrast/principal_motif.mid",
+      "bytes": 758,
+      "sha256": "61e598f6ab94586b2aa079cd4b21477d17cb04809539537fa9cb362c11cee421",
+      "errors": []
+    },
+    {
+      "path": "midi/z3503-dark-jungle-bass-motifs-contrast/sub_bass.mid",
+      "bytes": 845,
+      "sha256": "185c06aaad95d7db98650860f5260ce47994289b840070663510d5f4f4ad9f30",
+      "errors": []
+    },
+    {
+      "path": "midi/z3503-dark-jungle-bass-motifs-contrast/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "0848324cd12087eb1a941564a6a19b3a7f7f574519a33af65b66486b4602c18e",
+      "errors": []
+    },
+    {
+      "path": "midi/z3503-dark-jungle-bass-motifs-contrast/z3503-dark-jungle-bass-motifs-contrast-combined.mid",
+      "bytes": 5691,
+      "sha256": "2490537d77e2d6bf5842697028ae7b149ab002067aeaceb2749d628ec986f246",
+      "errors": []
+    },
+    {
+      "path": "midi/z3504-dark-jungle-bass-motifs-return/chord_pulse.mid",
+      "bytes": 1256,
+      "sha256": "f324df647149c3205fc68dd5f36af3f0d6a5fa934fdf4311ac499e59c9f4b0ce",
+      "errors": []
+    },
+    {
+      "path": "midi/z3504-dark-jungle-bass-motifs-return/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "ce22811ecd3cd31e86e86c8feb04dd774e6a470b5d13f020c6c37c55031c26d0",
+      "errors": []
+    },
+    {
+      "path": "midi/z3504-dark-jungle-bass-motifs-return/drums.mid",
+      "bytes": 2674,
+      "sha256": "932160b182702afaf82dc342829de7ec192a90a8c620e874ecbf11a9d433eb90",
+      "errors": []
+    },
+    {
+      "path": "midi/z3504-dark-jungle-bass-motifs-return/principal_motif.mid",
+      "bytes": 758,
+      "sha256": "53264a06c2bce385926d11306fcec20450dae8f0fbdb7e67514eeb8faec9165c",
+      "errors": []
+    },
+    {
+      "path": "midi/z3504-dark-jungle-bass-motifs-return/sub_bass.mid",
+      "bytes": 845,
+      "sha256": "689e70fe2a304e7939e6ee5e0f9c8b23c942c0449f537399b6f857984c2ff853",
+      "errors": []
+    },
+    {
+      "path": "midi/z3504-dark-jungle-bass-motifs-return/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "95e52c119ce91810274b2718e27b9873e3150c089df3c046e684b4c12f4f2680",
+      "errors": []
+    },
+    {
+      "path": "midi/z3504-dark-jungle-bass-motifs-return/z3504-dark-jungle-bass-motifs-return-combined.mid",
+      "bytes": 5691,
+      "sha256": "12035dfbf8977e1dcef6a97220b424c7d2dc9fdb630444653f06f01bf5c7bfb4",
+      "errors": []
+    }
+  ],
+  "duplicate_review": [],
+  "negative_control": {
+    "path": "checks/fixtures/invalid-same-pitch-overlap.mid",
+    "expected_result": "rejected for same-pitch overlap",
+    "passed": true
+  },
+  "limitations": [
+    "Automated technical validation only.",
+    "Nobody auditioned these files.",
+    "Duplicate-motif review is bounded and not exhaustive copyright clearance."
+  ]
+}

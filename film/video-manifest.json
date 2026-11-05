@@ -1,0 +1,26 @@
+{
+  "title": "Dark Jungle Bass Motifs",
+  "study": "z3501",
+  "bpm": 174,
+  "source_audio": "preview/dark-jungle-bass-motifs-simple-synth-preview.mp3",
+  "source_audio_sha256": "dc25afba2250b7084f1344541896a8b9560f517c6d5da68e07ca7e6a404a4bfc",
+  "source_midi": "midi/z3501-dark-jungle-bass-motifs-opening/z3501-dark-jungle-bass-motifs-opening-combined.mid",
+  "source_midi_sha256": "eeb3a7095b1af17064a09f4f2b3720f73a8c209dfce171177132f2e537ac32c0",
+  "source_events": "catalog/note-events.csv",
+  "source_events_sha256": "ac069cddfc72fe3f86110f0ea4f0262ece802e30ef2c60a04482a72a93eeae66",
+  "art_source_file": "art/hero.jpg",
+  "art_source_sha256": "1ad1f625dca340b14eec902a46941367a2578e5a796979b19add8b2062ddf9e3",
+  "excerpt_start_seconds": 0,
+  "duration_seconds": 18.0,
+  "video": "film/preview.mp4",
+  "video_sha256": "30c98209ae569d24b8012d94e64aa4fecd915f64626adc0f2ee6d9e49663f96c",
+  "caption": "film/preview.vtt",
+  "resolution": "960x540",
+  "fps": 15,
+  "visualization": "Scrolling note events from the selected score over a moving cover image",
+  "disclosure": "preview, not master",
+  "limitations": [
+    "Simple-synth rendering, not a recorded performance.",
+    "No human listening review recorded."
+  ]
+}

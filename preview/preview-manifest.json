@@ -1,0 +1,30 @@
+{
+  "label": "preview, not a master.",
+  "preview_path": "preview/dark-jungle-bass-motifs-simple-synth-preview.mp3",
+  "preview_sha256": "dc25afba2250b7084f1344541896a8b9560f517c6d5da68e07ca7e6a404a4bfc",
+  "source_midi_path": "midi/z3501-dark-jungle-bass-motifs-opening/z3501-dark-jungle-bass-motifs-opening-combined.mid",
+  "source_midi_sha256": "eeb3a7095b1af17064a09f4f2b3720f73a8c209dfce171177132f2e537ac32c0",
+  "renderer": "release-simple-synth 1.0.0",
+  "renderer_configuration": {
+    "sample_rate": 44100,
+    "source_tracks": [
+      "chord_pulse",
+      "counter_texture",
+      "drums",
+      "principal_motif",
+      "sub_bass",
+      "vocal_like_synth"
+    ],
+    "processing": "Per-voice synthesis and envelopes; summed samples are clamped to +/-0.95, converted to 16-bit stereo PCM and encoded to 192 kb/s MP3."
+  },
+  "selection": {
+    "study": "z3501",
+    "start_seconds": 0,
+    "end_seconds": 44.138
+  },
+  "measurement": {
+    "sample_peak": 0.096549,
+    "not_lufs_or_true_peak": true
+  },
+  "limitations": "Automated generation and decode checks only. Nobody auditioned this simple-synthesis preview. It is not a finished-production sound or master."
+}
