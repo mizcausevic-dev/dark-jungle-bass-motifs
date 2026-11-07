@@ -198,8 +198,8 @@
     },
     {
       "path": "downloads/dark-jungle-bass-motifs-midi.zip",
-      "bytes": 31233,
-      "sha256": "4b30cc1fe8ee0bd094b8d78292dbd0cadd4235fb21eceada455120c77bcb8b57"
+      "bytes": 32220,
+      "sha256": "c5d0713bfd5026b5babf503e8612bea18fd36617c27c6b219dc5c93760789461"
     },
     {
       "path": "film/motion-note-roll.png",
@@ -233,8 +233,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 9996,
-      "sha256": "9ec0304ee320cccc66a70e9603759e7468cf784543dfab6d0cb0e71092c06975"
+      "bytes": 10186,
+      "sha256": "e078a3b714ca3ad91e57b98220973acf4ecde304fc42eee55c38f001673a8cef"
     },
     {
       "path": "midi/z3501-dark-jungle-bass-motifs-opening/chord_pulse.mid",
@@ -377,6 +377,11 @@
       "sha256": "12035dfbf8977e1dcef6a97220b424c7d2dc9fdb630444653f06f01bf5c7bfb4"
     },
     {
+      "path": "MIDI-BUYER-LICENSE-v1.0.txt",
+      "bytes": 1652,
+      "sha256": "1111ca6dd4ca4ff4163f199fae341ff54ca3715acc3cf19ca332f2f6e58c36c9"
+    },
+    {
       "path": "preview/dark-jungle-bass-motifs-simple-synth-preview.mp3",
       "bytes": 1072736,
       "sha256": "dc25afba2250b7084f1344541896a8b9560f517c6d5da68e07ca7e6a404a4bfc"
@@ -388,8 +393,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 3984,
-      "sha256": "8560716ef4c3351460fd11bc691d1846e1b1cc001464e954de633843bcddcfa6"
+      "bytes": 4099,
+      "sha256": "5aaccd78e552516ddb6c2cc8bdf3254130a1645448171b2f2c183f2af51f2f12"
     },
     {
       "path": "social/instagram/caption.txt",
